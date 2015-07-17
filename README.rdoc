@@ -2,5 +2,4 @@
 #Programmer: Michael Coghill
 
 
-This application is my second in the ruby tutorial, it is apparently a back_end tool I am hoping to learn more about ruby on rails
-  and git with this repository.
+This application is my second in the ruby tutorial, it is apparently a back_end tool I am hoping to learn more about ruby on rails and git with this repository.
